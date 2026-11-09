@@ -1,0 +1,363 @@
+LOCUS       NM_000618               7277 bp    mRNA    linear   PRI 05-FEB-2026
+DEFINITION  Homo sapiens insulin like growth factor 1 (IGF1), transcript
+            variant 4, mRNA.
+ACCESSION   NM_000618
+VERSION     NM_000618.5
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 7277)
+  AUTHORS   Li,X., Han,M., Zhu,H., Pan,Y., Su,C., Liu,Y., Liao,Z., Zhang,B. and
+            Chen,X.
+  TITLE     m6A-Mediated TMCO3 Promotes Hepatocellular Carcinoma Progression by
+            Facilitating the Membrane Translocation and Activation of AKT
+  JOURNAL   Adv Sci (Weinh) 12 (27), e2504187 (2025)
+   PUBMED   40285646
+REFERENCE   2  (bases 1 to 7277)
+  AUTHORS   Li,X., Lin,S., Yang,X., Chen,C., Cao,S., Zhang,Q., Ma,J., Zhu,G.,
+            Zhang,Q., Fang,Q., Zheng,C., Liang,W. and Wu,X.
+  TITLE     When IGF-1 Meets Metabolic Inflammation and Polycystic Ovary
+            Syndrome
+  JOURNAL   Int Immunopharmacol 138, 112529 (2024)
+   PUBMED   38941670
+  REMARK    GeneRIF: When IGF-1 Meets Metabolic Inflammation and Polycystic
+            Ovary Syndrome.
+            Review article
+REFERENCE   3  (bases 1 to 7277)
+  AUTHORS   Abudoureyimu,M., Tayier,T. and Zhang,L.
+  TITLE     The role and mechanism of action of miR-483-3p in mediating the
+            effects of IGF-1 on human renal tubular epithelial cells induced by
+            high glucose
+  JOURNAL   Sci Rep 14 (1), 15635 (2024)
+   PUBMED   38972889
+  REMARK    GeneRIF: The role and mechanism of action of miR-483-3p in
+            mediating the effects of IGF-1 on human renal tubular epithelial
+            cells induced by high glucose.
+REFERENCE   4  (bases 1 to 7277)
+  AUTHORS   Smolarz,B., Szaflik,T., Romanowicz,H., Brys,M., Forma,E. and
+            Szyllo,K.
+  TITLE     Analysis of VEGF, IGF1/2 and the Long Noncoding RNA (lncRNA) H19
+            Expression in Polish Women with Endometriosis
+  JOURNAL   Int J Mol Sci 25 (10), 5271 (2024)
+   PUBMED   38791310
+  REMARK    GeneRIF: Analysis of VEGF, IGF1/2 and the Long Noncoding RNA
+            (lncRNA) H19 Expression in Polish Women with Endometriosis.
+REFERENCE   5  (bases 1 to 7277)
+  AUTHORS   Boussouf,F.Z., Medjdoub,A., Tahari,Z., Messatfa,M., Bouras,N.,
+            Dahmani,C.A., Seddiki,S.A. and Sahraoui,T.
+  TITLE     Characterisation of IGF-1 (rs7136446) and IL-6 (rs1800795)
+            polymorphisms among breast cancer patients in western Algeria
+  JOURNAL   Pol J Pathol 75 (3), 205-214 (2024)
+   PUBMED   39451175
+  REMARK    GeneRIF: Characterisation of IGF-1 (rs7136446) and IL-6 (rs1800795)
+            polymorphisms among breast cancer patients in western Algeria.
+REFERENCE   6  (bases 1 to 7277)
+  AUTHORS   Sato,A., Nishimura,S., Ohkubo,T., Kyogoku,Y., Koyama,S.,
+            Kobayashi,M., Yasuda,T. and Kobayashi,Y.
+  TITLE     1H-NMR assignment and secondary structure of human insulin-like
+            growth factor-I (IGF-I) in solution
+  JOURNAL   J Biochem 111 (4), 529-536 (1992)
+   PUBMED   1319992
+REFERENCE   7  (bases 1 to 7277)
+  AUTHORS   Ding,L., Becker,A.B., Suzuki,A. and Roth,R.A.
+  TITLE     Comparison of the enzymatic and biochemical properties of human
+            insulin-degrading enzyme and Escherichia coli protease III
+  JOURNAL   J Biol Chem 267 (4), 2414-2420 (1992)
+   PUBMED   1733942
+REFERENCE   8  (bases 1 to 7277)
+  AUTHORS   Antoniades,H.N., Galanopoulos,T., Neville-Golden,J. and Maxwell,M.
+  TITLE     Expression of insulin-like growth factors I and II and their
+            receptor mRNAs in primary human astrocytomas and meningiomas; in
+            vivo studies using in situ hybridization and immunocytochemistry
+  JOURNAL   Int J Cancer 50 (2), 215-222 (1992)
+   PUBMED   1370435
+REFERENCE   9  (bases 1 to 7277)
+  AUTHORS   Sandberg-Nordqvist,A.C., Stahlbom,P.A., Lake,M. and Sara,V.R.
+  TITLE     Characterization of two cDNAs encoding insulin-like growth factor 1
+            (IGF-1) in the human fetal brain
+  JOURNAL   Brain Res Mol Brain Res 12 (1-3), 275-277 (1992)
+   PUBMED   1372070
+REFERENCE   10 (bases 1 to 7277)
+  AUTHORS   Rinderknecht,E. and Humbel,R.E.
+  TITLE     The amino acid sequence of human insulin-like growth factor I and
+            its structural homology with proinsulin
+  JOURNAL   J Biol Chem 253 (8), 2769-2776 (1978)
+   PUBMED   632300
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AB209184.1 and AC010202.6.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Jun 2, 2019 this sequence version replaced NM_000618.4.
+            
+            Summary: The protein encoded by this gene is similar to insulin in
+            function and structure and is a member of a family of proteins
+            involved in mediating growth and development. The encoded protein
+            is processed from a precursor, bound by a specific receptor, and
+            secreted. Defects in this gene are a cause of insulin-like growth
+            factor I deficiency. Alternative splicing results in multiple
+            transcript variants encoding different isoforms that may undergo
+            similar processing to generate mature protein. [provided by RefSeq,
+            Sep 2015].
+            
+            Transcript Variant: This variant (4) lacks an alternate
+            frame-shifting exon in the 3' coding region, compared to variant 1,
+            resulting in a protein (isoform 4) with a novel C-terminus,
+            compared to isoform 1. This isoform is also known as IA. Variants 4
+            and 7 both encode the same isoform (4).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X57025.1, AB209184.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2153307, SAMEA2153932
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000337514.11/ ENSP00000337612.7
+            RefSeq Select criteria :: based on manual assertion, conservation,
+                                      expression
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-2413              AB209184.1         34-2446
+            2414-7277           AC010202.6         163843-168706
+FEATURES             Location/Qualifiers
+     source          1..7277
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="12"
+                     /map="12q23.2"
+     gene            1..7277
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="insulin like growth factor 1"
+                     /db_xref="GeneID:3479"
+                     /db_xref="HGNC:HGNC:5464"
+                     /db_xref="MIM:147440"
+     exon            1..245
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    87..89
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="upstream in-frame stop codon"
+     CDS             183..644
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="isoform 4 preproprotein is encoded by transcript
+                     variant 4; insulin-like growth factor IB; somatomedin-C;
+                     mechano growth factor; insulin-like growth factor 1
+                     (somatomedin C)"
+                     /codon_start=1
+                     /product="insulin-like growth factor 1 isoform 4
+                     preproprotein"
+                     /protein_id="NP_000609.1"
+                     /db_xref="CCDS:CCDS9091.1"
+                     /db_xref="GeneID:3479"
+                     /db_xref="HGNC:HGNC:5464"
+                     /db_xref="MIM:147440"
+                     /translation="MGKISSLPTQLFKCCFCDFLKVKMHTMSSSHLFYLALCLLTFTS
+                     SATAGPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDL
+                     RRLEMYCAPLKPAKSARSVRAQRHTDMPKTQKEVHLKNASRGSAGNKNYRM"
+     sig_peptide     183..245
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="/evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P05019.1)"
+     mat_peptide     327..536
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /product="Insulin-like growth factor 1.
+                     /id=PRO_0000015664"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05019.1)"
+     misc_feature    327..413
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05019.1);
+                     Region: B"
+     misc_feature    414..449
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05019.1);
+                     Region: C"
+     misc_feature    450..512
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05019.1);
+                     Region: A"
+     misc_feature    513..536
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="propagated from UniProtKB/Swiss-Prot (P05019.1);
+                     Region: D"
+     exon            246..402
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /inference="alignment:Splign:2.1.0"
+     exon            403..584
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /inference="alignment:Splign:2.1.0"
+     exon            585..7277
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      782..787
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="hexamer: AATACA"
+     polyA_site      803
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="major polyA site"
+     regulatory      7221..7226
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="hexamer: AATAAA"
+     regulatory      7253..7258
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="hexamer: ATTAAA"
+     polyA_site      7259
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+                     /note="major polyA site"
+     polyA_site      7277
+                     /gene="IGF1"
+                     /gene_synonym="IGF; IGF-I; IGFI; MGF"
+ORIGIN      
+        1 cttctgtttg ctaaatctca ctgtcactgc taaattcaga gcagatagag cctgcgcaat
+       61 ggaataaagt cctcaaaatt gaaatgtgac attgctctca acatctccca tctctctgga
+      121 tttctttttg cttcattatt cctgctaacc aattcatttt cagactttgt acttcagaag
+      181 caatgggaaa aatcagcagt cttccaaccc aattatttaa gtgctgcttt tgtgatttct
+      241 tgaaggtgaa gatgcacacc atgtcctcct cgcatctctt ctacctggcg ctgtgcctgc
+      301 tcaccttcac cagctctgcc acggctggac cggagacgct ctgcggggct gagctggtgg
+      361 atgctcttca gttcgtgtgt ggagacaggg gcttttattt caacaagccc acagggtatg
+      421 gctccagcag tcggagggcg cctcagacag gcatcgtgga tgagtgctgc ttccggagct
+      481 gtgatctaag gaggctggag atgtattgcg cacccctcaa gcctgccaag tcagctcgct
+      541 ctgtccgtgc ccagcgccac accgacatgc ccaagaccca gaaggaagta catttgaaga
+      601 acgcaagtag agggagtgca ggaaacaaga actacaggat gtaggaagac cctcctgagg
+      661 agtgaagagt gacatgccac cgcaggatcc tttgctctgc acgagttacc tgttaaactt
+      721 tggaacacct accaaaaaat aagtttgata acatttaaaa gatgggcgtt tcccccaatg
+      781 aaatacacaa gtaaacattc caacattgtc tttaggagtg atttgcacct tgcaaaaatg
+      841 gtcctggagt tggtagattg ctgttgatct tttatcaata atgttctata gaaaagaaaa
+      901 aaaaaatata tatatatata tatcttagtc cctgcctctc aagagccaca aatgcatggg
+      961 tgttgtatag atccagttgc actaaattcc tctctgaatc ttggctgctg gagccattca
+     1021 ttcagcaacc ttgtctaagt ggtttatgaa ttgtttcctt atttgcactt ctttctacac
+     1081 aactcgggct gtttgtttta cagtgtctga taatcttgtt agtctatacc caccacctcc
+     1141 cttcataacc tttatatttg ccgaatttgg cctcctcaaa agcagcagca agtcgtcaag
+     1201 aagcacacca attctaaccc acaagattcc atctgtggca tttgtaccaa atataagttg
+     1261 gatgcatttt attttagaca caaagcttta tttttccaca tcatgcttac aaaaaagaat
+     1321 aatgcaaata gttgcaactt tgaggccaat catttttagg catatgtttt aaacatagaa
+     1381 agtttcttca actcaaaaga gttccttcaa atgatgagtt aatgtgcaac ctaattagta
+     1441 actttcctct ttttattttt tccatataga gcactatgta aatttagcat atcaattata
+     1501 caggatatat caaacagtat gtaaaactct gttttttagt ataatggtgc tattttgtag
+     1561 tttgttatat gaaagagtct ggccaaaacg gtaatacgtg aaagcaaaac aataggggaa
+     1621 gcctggagcc aaagatgaca caaggggaag ggtactgaaa acaccatcca tttgggaaag
+     1681 aaggcaaagt ccccccagtt atgccttcca agaggaactt cagacacaaa agtccactga
+     1741 tgcaaattgg actggcgagt ccagagagga aactgtggaa tggaaaaagc agaaggctag
+     1801 gaattttagc agtcctggtt tctttttctc atggaagaaa tgaacatctg ccagctgtgt
+     1861 catggactca ccactgtgtg accttgggca agtcacttca cctctctgtg cctcagtttc
+     1921 ctcatctgca aaatgggggc aatatgtcat ctacctacct caaaggggtg gtataaggtt
+     1981 taaaaagata aagattcaga ttttttttac cctgggttgc tgtaagggtg caacatcagg
+     2041 gcgcttgagt tgctgagatg caaggaattc tataaataac ccattcatag catagctaga
+     2101 gattggtgaa ttgaatgctc ctgacatctc agttcttgtc agtgaagcta tccaaataac
+     2161 tggccaacta gttgttaaaa gctaacagct caatctctta aaacactttt caaaatatgt
+     2221 gggaagcatt tgattttcaa tttgattttg aattctgcat ttggttttat gaatacaaag
+     2281 ataagtgaaa agagagaaag gaaaagaaaa aggagaaaaa caaagagatt tctaccagtg
+     2341 aaaggggaat taattactct ttgttagcac tcactgactc ttctatgcag ttactacata
+     2401 tctagtaaaa cctcgtttaa tactataaat aatattctat tcattttgaa aaacacaatg
+     2461 attccttctt ttctaggcaa tataaggaaa gtgatccaaa atttgaaata ttaaaataat
+     2521 atctaataaa aagtcacaaa gttatcttct ttaacaaact ttactcttat tcttagctgt
+     2581 atatacattt ttttaaaagt ttgttaaaat atgcttgact agagtttcca gttgaaaggc
+     2641 aaaaacttcc atcacaacaa gaaatttccc atgcctgctc agaagggtag cccctagctc
+     2701 tctgtgaatg tgttttatcc attcaactga aaattggtat caagaaagtc cactggttag
+     2761 tgtactagtc catcatagcc tagaaaatga tccctatctg cagatcaaga ttttctcatt
+     2821 agaacaatga attatccagc attcagatct ttctagtcac cttagaactt tttggttaaa
+     2881 agtacccagg cttgattatt tcatgcaaat tctatatttt acattcttgg aaagtctata
+     2941 tgaaaaacaa aaataacatc ttcagttttt ctcccactgg gtcacctcaa ggatcagagg
+     3001 ccaggaaaaa aaaaaaaaag actccctgga tctctgaata tatgcaaaaa gaaggcccca
+     3061 tttagtggag ccagcaatcc tgttcagtca acaagtattt taactctcag tccaacatta
+     3121 tttgaattga gcacctcaag catgcttagc aatgttctaa tcactatgga cagatgtaaa
+     3181 agaaactata catcattttt gccctctgcc tgttttccag acatacaggt tctgtggaat
+     3241 aagatactgg actcctcttc ccaagatggc acttcttttt atttcttgtc cccagtgtgt
+     3301 accttttaaa attattccct ctcaacaaaa ctttataggc agtcttctgc agacttaacg
+     3361 tgttttctgt catagttaga tgtgataatt ctaagagtgt ctatgactta tttccttcac
+     3421 ttaattctat ccacagtcaa aaatccccca aggaggaaag ctgaaagatg cactgccata
+     3481 ttatctttct taactttttc caacacataa tcctctccaa ctggattata aataaattga
+     3541 aaataactca ttataccaat tcactatttt attttttaat gaattaaaac tagaaaacaa
+     3601 attgatgcaa accctggaag tcagttgatt actatatact acagcagaat gactcagatt
+     3661 tcatagaaag gagcaaccaa aatgtcacaa cccaaaactt tacaagcttt gcttcagaat
+     3721 tagattgctt tataattctt gaatgaggca atttcaagat atttgtaaaa gaacagtaaa
+     3781 cattggtaag aatgagcttt caactcatag gcttatttcc aatttaattg accatactgg
+     3841 atacttaggt caaatttctg ttctctcttc cccaaataat attaaagtat tatttgaact
+     3901 ttttaagatg aggcagttcc cctgaaaaag ttaatgcagc tctccatcag aatccactct
+     3961 tctagggata tgaaaatctc ttaacaccca ccctacatac acagacacac acacacacac
+     4021 acacacacac acacacacac acattcaccc taaggatcca atggaatact gaaaagaaat
+     4081 cacttccttg aaaattttat taaaaaacaa acaaacaaac aaaaagcctg tccacccttg
+     4141 agaatccttc ctctccttgg aacgtcaatg tttgtgtaga tgaaaccatc tcatgctctg
+     4201 tggctccagg gtttctgtta ctattttatg cacttgggag aaggcttaga ataaaagatg
+     4261 tagcacattt tgctttccca tttattgttt ggccagctat gccaatgtgg tgctattgtt
+     4321 tctttaagaa agtacttgac taaaaaaaaa agaaaaaaag aaaaaaaaga aagcatagac
+     4381 atattttttt aaagtataaa aacaacaatt ctatagatag atggcttaat aaaatagcat
+     4441 taggtctatc tagccaccac cacctttcaa ctttttatca ctcacaagta gtgtactgtt
+     4501 caccaaattg tgaatttggg ggtgcagggg caggagttgg aaatttttta aagttagaag
+     4561 gctccattgt tttgttggct ctcaaactta gcaaaattag caatatatta tccaatcttc
+     4621 tgaacttgat caagagcatg gagaataaac gcgggaaaaa agatcttata ggcaaataga
+     4681 agaatttaaa agataagtaa gttccttatt gatttttgtg cactctgctc taaaacagat
+     4741 attcagcaag tggagaaaat aagaacaaag agaaaaaata catagattta cctgcaaaaa
+     4801 atagcttctg ccaaatcccc cttgggtatt ctttggcatt tactggttta tagaagacat
+     4861 tctcccttca cccagacatc tcaaagagca gtagctctca tgaaaagcaa tcactgatct
+     4921 catttgggaa atgttggaaa gtatttcctt atgagatggg ggttatctac tgataaagaa
+     4981 agaatttatg agaaattgtt gaaagagatg gctaacaatc tgtgaagatt ttttgtttct
+     5041 tgtttttgtt tttttttttt ttttacttta tacagtcttt atgaatttct taatgttcaa
+     5101 aatgacttgg ttcttttctt ctttttttat atcagaatga ggaataataa gttaaaccca
+     5161 catagactct ttaaaactat aggctagata gaaatgtatg tttgacttgt tgaagctata
+     5221 atcagactat ttaaaatgtt ttgctatttt taatcttaaa agattgtgct aatttattag
+     5281 agcagaacct gtttggctct cctcagaaga aagaatcttt ccattcaaat cacatggctt
+     5341 tccaccaata ttttcaaaag ataaatctga tttatgcaat ggcatcattt attttaaaac
+     5401 agaagaattg tgaaagttta tgcccctccc ttgcaaagac cataaagtcc agatctggta
+     5461 ggggggcaac aacaaaagga aaatgttgtt gattcttggt tttggatttt gttttgtttt
+     5521 caatgctagt gtttaatcct gtagtacata tttgcttatt gctattttaa tattttataa
+     5581 gaccttcctg ttaggtatta gaaagtgata catagatatc ttttttgtgt aatttctatt
+     5641 taaaaaagag agaagactgt cagaagcttt aagtgcatat ggtacaggat aaagatatca
+     5701 atttaaataa ccaattccta tctggaacaa tgcttttgtt ttttaaagaa acctctcaca
+     5761 gataagacag aggcccaggg gatttttgaa gctgtcttta ttctgccccc atcccaaccc
+     5821 agcccttatt attttagtat ctgcctcaga attttataga gggctgacca agctgaaact
+     5881 ctagaattaa aggaacctca ctgaaaacat atatttcacg tgttccctct tttttttttt
+     5941 cctttttgtg agatggggtc tcgcactgtc ccccaggctg gagtgcagtg gcatgatctc
+     6001 ggctcactgc aacctccacc tcctgggttt aagcgattct cctgcctcag cctcctgagt
+     6061 agctgggatt acaggcaccc accactatgc ccggctaatt ttttggattt ttaatagaga
+     6121 cggggtttta ccatgttggc caggttggtc tcaaactcct gaccttgtga tttgcccgcc
+     6181 tcagcctccc aaattgctgg gattacaggc atgagccacc acaccctgcc catgtgttcc
+     6241 ctcttaatgt atgattacat ggatcttaaa catgatcctt ctctcctcat tcttcaacta
+     6301 tctttgatgg ggtctttcaa ggggaaaaaa atccaagctt ttttaaagta aaaaaaaaaa
+     6361 aagagaggac acaaaaccaa atgttactgc tcaactgaaa tatgagttaa gatggagaca
+     6421 gagtttctcc taataaccgg agctgaatta cctttcactt tcaaaaacat gaccttccac
+     6481 aatccttaga atctgccttt ttttatatta ctgaggccta aaagtaaaca ttactcattt
+     6541 tattttgccc aaaatgcact gatgtaaagt aggaaaaata aaaacagagc tctaaaatcc
+     6601 ctttcaagcc acccattgac cccactcacc aactcatagc aaagtcactt ctgttaatcc
+     6661 cttaatctga ttttgtttgg atatttatct tgtacccgct gctaaacaca ctgcaggagg
+     6721 gactctgaaa cctcaagctg tctacttaca tcttttatct gtgtctgtgt atcatgaaaa
+     6781 tgtctattca aaatatcaaa acctttcaaa tatcacgcag cttatattca gtttacataa
+     6841 aggccccaaa taccatgtca gatctttttg gtaaaagagt taatgaacta tgagaattgg
+     6901 gattacatca tgtattttgc ctcatgtatt tttatcacac ttataggcca agtgtgataa
+     6961 ataaacttac agacactgaa ttaatttccc ctgctacttt gaaaccagaa aataatgact
+     7021 ggccattcgt tacatctgtc ttagttgaaa agcatatttt ttattaaatt aattctgatt
+     7081 gtatttgaaa ttattattca attcacttat ggcagaggaa tatcaatcct aatgacttct
+     7141 aaaaatgtaa ctaattgaat cattatctta catttactgt ttaataagca tattttgaaa
+     7201 atgtatggct agagtgtcat aataaaatgg tatatctttc tttagtaatt acattaaaat
+     7261 tagtcatgtt tgattaa
+//
